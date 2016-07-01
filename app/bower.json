@@ -1,0 +1,21 @@
+{
+  "name": "app",
+  "authors": [
+    "Bart Verkoeijen <bart.verkoeijen@gmail.com>"
+  ],
+  "description": "Test for Protractor addMockModule",
+  "main": "app.html",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.4.1"
+  }
+}
